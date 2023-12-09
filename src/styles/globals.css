@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    width: min(95%, 70rem);
+    font-family: 'Jost', sans-serif;
+}
