@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 body {
-    width: min(95%, 70rem);
+    width: min(90%, 64rem);
     font-family: 'Jost', sans-serif;
 }
